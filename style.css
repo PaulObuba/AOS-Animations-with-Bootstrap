@@ -42,6 +42,15 @@ section {
   box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
 }
 
+.links {
+ font-size: 13px;
+  margin-left: 10px;
+}
+
+.links:hover {
+  color: rgba(17, 7, 254, 0.7);
+}
+
 .overlay {
   position: absolute;
   top: 0;
